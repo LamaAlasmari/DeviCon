@@ -1,7 +1,6 @@
 ![image](https://github.com/LamaAlasmari/DeviCon/assets/103804118/7b208082-6cf0-426a-a04a-b26cb6704bcc)
 # DeviCon
 Python Reconnaissance Tool that performs passive and active information gathering for the Progrmming for Cybersecurity course The tool can be ran on Windows and kali
-
 Needed Dependecies
 1.whois library: Install the whois library using the following command in the Command Prompt: pip install python-whois
 2.Install Nmap
